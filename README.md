@@ -1,6 +1,6 @@
 ### JDFeditor v 1.2
 GUI application for editing database files,
-specifically designed for the new JDF file format.
+specifically designed for the JDF file format (proprietary, for fun).
 (J)son(D)atabase(F)ormat
 
 Copyright (C) 2016 Damian Chrzanowski
