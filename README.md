@@ -1,3 +1,5 @@
+# This is a toy project to get familiar with GTK3 and JSON
+
 ### JDFeditor v 1.2
 GUI application for editing database files,
 specifically designed for the JDF file format (proprietary, for fun).
